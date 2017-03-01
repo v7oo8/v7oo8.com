@@ -1,0 +1,53 @@
+* {padding: 0;margin: 0;}
+body{font-size: 62.5%;}
+img {
+    max-width: 100%;
+}
+
+.a{
+	overflow: hidden;
+    width: 100%;
+	height:800px;
+    max-width: 600px;
+    margin: 0 auto;
+	background-color:#68cdd5;
+
+}
+.putaoteng{
+	padding-top:10%;
+	margin:0 auto;
+	width: 55%;
+	max-width:185px;
+
+}
+.ziti{
+	font-size: 1.6em;
+	color:white;
+	margin:0 auto;
+	padding:15% 5% 20% 5%;
+
+}
+.b{
+	width: 10%;
+    max-width: 55px;
+    padding-top: 2%;
+    padding-left: 2%;
+}
+.c{
+	font-size: 1.6em;
+	color:white;
+}
+.c1{
+	width:15%;
+	max-width:85px;
+	float:right;
+	padding-right:20%;
+	text-align:center;
+}
+.c2{
+	width: 15%;
+	max-width:85px;
+	float:left;
+	padding-left:20%;
+	text-align:center;
+}
