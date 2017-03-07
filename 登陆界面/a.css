@@ -1,0 +1,64 @@
+* {
+	padding: 0;margin: 0;
+}
+img {
+	max-width: 100%;
+}
+html{
+	font-size:62.5%;
+}
+body {
+	min-width:320px;
+	background-color:#eff0f4;
+	height:2vw;
+}
+p {
+	color:white;
+	font-size:1.6em;
+}
+div {
+	overflow:hidden;
+}
+.header{
+	background-color:#5fc0cd;
+	position:relative;
+	text-align:center;
+	height:7rem;
+	font-size:2.6em;
+}
+.denglu{
+	padding-top:1.5rem;
+}
+.zhuce{
+	position: absolute;
+	top:20%;
+}
+.guanbi{
+	position: absolute;
+	top:20%;
+	right:1%;
+}
+.a{
+	position:relative;
+	background-color:#ffffff;
+	margin:1rem;
+}
+.a input{
+	font-size:3.6em;
+	text-indent: 2rem;
+	vertical-align: middle;
+	width:100%;
+	position:absolute;
+	left:5%;
+	top:20%;
+}
+.a img{
+	width:25px;
+	padding:2%;
+}
+.b{
+	background-color:#5fc0cd;
+	width:100%;
+	min-height:7rem;
+	font-size:2.6em;
+}
